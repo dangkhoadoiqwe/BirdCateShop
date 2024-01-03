@@ -39,7 +39,9 @@ namespace Shopping
                         // Nếu là RoleID = 1 (Admin), mở form ListAllProduct
                         ListAllProduct listAllProduct = new ListAllProduct();
                         listAllProduct.AccountId = account.AccountId;
-                        listAllProduct.Show();
+                        //listAllProduct.Show();
+                        HomeUser homeUser = new HomeUser(); 
+                        homeUser.Show();
                         this.Hide();
                     }
                     else if (account.Role == 2)

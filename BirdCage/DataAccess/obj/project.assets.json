@@ -2324,11 +2324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\Shoppee\\BirdCage\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\BirdCage\\BirdCateShop\\BirdCage\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\Shoppee\\BirdCage\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\BirdCage\\BirdCateShop\\BirdCage\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\Shoppee\\BirdCage\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\BirdCage\\BirdCateShop\\BirdCage\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2352,8 +2352,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\Shoppee\\BirdCage\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\Shoppee\\BirdCage\\Model\\Model.csproj"
+            "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\BirdCage\\BirdCateShop\\BirdCage\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\BirdCage\\BirdCateShop\\BirdCage\\Model\\Model.csproj"
             }
           }
         }

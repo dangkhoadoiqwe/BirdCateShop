@@ -15,6 +15,7 @@ namespace Respository
         void DeleteProduct(Product product);
         void AddproToCart(int accountID, int productId, int quantity);
         void CheckQuantiy();
+        List<Product> Load2Product();
     }
 
 }

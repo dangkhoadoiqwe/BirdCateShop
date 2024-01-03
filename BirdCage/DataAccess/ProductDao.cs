@@ -125,6 +125,24 @@ namespace DataAccess
             catch(Exception ex) { throw new Exception(ex.Message); }
 
         }
+        public static List<Product> Load2Product()
+        {
+            List<Product> list = new List<Product>();
+            try
+            {
+                using(var context =  new BirdCage777Context())
+                {
+                    var get2pro = context.Products.OrderByDescending(pro => pro.ProductId).ToList();
+                    list = get2pro.Take(2).ToList();
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+
+            return list;
+        }
         public static  List<Product> GetallProduct()
         {
             List<Product> list = new List<Product>();

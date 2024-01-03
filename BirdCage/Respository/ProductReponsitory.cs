@@ -29,6 +29,8 @@ namespace Respository
 
         public List<Product> Getallpro() => ProductDao.GetallProduct();
 
+        public List<Product> Load2Product() => ProductDao.Load2Product();
+
         public void UpdateProduct(Product product)
         {
             ProductDao.UpdatePro(product);

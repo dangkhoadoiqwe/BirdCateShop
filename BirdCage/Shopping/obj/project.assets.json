@@ -2361,11 +2361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\Shoppee\\BirdCage\\Shopping\\Shopping.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\BirdCage\\BirdCateShop\\BirdCage\\Shopping\\Shopping.csproj",
       "projectName": "Shopping",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\Shoppee\\BirdCage\\Shopping\\Shopping.csproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\BirdCage\\BirdCateShop\\BirdCage\\Shopping\\Shopping.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\Shoppee\\BirdCage\\Shopping\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\BirdCage\\BirdCateShop\\BirdCage\\Shopping\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2389,8 +2389,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\Shoppee\\BirdCage\\Respository\\Respository.csproj": {
-              "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\Shoppee\\BirdCage\\Respository\\Respository.csproj"
+            "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\BirdCage\\BirdCateShop\\BirdCage\\Respository\\Respository.csproj": {
+              "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\BirdCage\\BirdCateShop\\BirdCage\\Respository\\Respository.csproj"
             }
           }
         }

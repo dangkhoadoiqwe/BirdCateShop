@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fqSiFwy/7MtNs5MZdJG3s6SZZEtxV4UswnpEHoun2BdNpNQShDT3GQ4HmoUmBnC0p0hkUTL9kR8sfxJWQq5uRw==",
+  "dgSpecHash": "c1boSd8B/Sz+M3AVK14dobE+UwbZieMyTF9o2f7n/AEhBBOBXNHfA5zikXkMDTdKDqtsWeNGZTvNdIXbJhtUhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\Shoppee\\BirdCage\\Model\\Model.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\BirdCage\\BirdCateShop\\BirdCage\\Model\\Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
