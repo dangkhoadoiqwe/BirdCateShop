@@ -1,0 +1,17 @@
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\bin\Debug\net5.0\Respository.deps.json
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\bin\Debug\net5.0\Respository.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\bin\Debug\net5.0\Respository.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\bin\Debug\net5.0\Model.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\bin\Debug\net5.0\Model.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\obj\Debug\net5.0\Respository.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\obj\Debug\net5.0\Respository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\obj\Debug\net5.0\Respository.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\obj\Debug\net5.0\Respository.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\obj\Debug\net5.0\Respository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\obj\Debug\net5.0\Respository.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\obj\Debug\net5.0\Respository.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\obj\Debug\net5.0\refint\Respository.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\obj\Debug\net5.0\Respository.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\Shoppee\BirdCage\Respository\obj\Debug\net5.0\ref\Respository.dll
