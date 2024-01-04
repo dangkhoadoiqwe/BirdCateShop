@@ -56,8 +56,8 @@ namespace Shopping
                     string img2 = top3Products[1].Image.ToString();
                     try
                     {
-                        Bitmap bitmap = new Bitmap(img2);
-                        pictureBox3.Image = bitmap;
+                        Bitmap bitmap1 = new Bitmap(img2);
+                        pictureBox3.Image = bitmap1;
                         pictureBox3.SizeMode = PictureBoxSizeMode.Zoom;
                     }
                     catch (Exception ex)
